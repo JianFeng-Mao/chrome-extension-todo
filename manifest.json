@@ -1,0 +1,8 @@
+{
+  "name": "todo",
+  "manifest_version": 3,
+  "version": "1.0",
+  "chrome_url_overrides" : {
+    "newtab": "src/newTab/index.html"
+  }
+}
